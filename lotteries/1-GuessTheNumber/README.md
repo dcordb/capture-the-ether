@@ -1,3 +1,8 @@
+## Challenge
+
+In this challenge we have the guess in the code, the guess is equal to 42. We
+just need to interact with the contract.
+
 ## Solution
 
 In this challenge we just have to do a transaction to call the function `guess`
