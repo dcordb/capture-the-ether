@@ -3,7 +3,6 @@
 In this challenge the answer is calculated inside the constructor of the
 contract, this is the main difference from the previous one. In particular we
 have the following: `answer = uint8(keccak256(block.blockhash(block.number - 1), now));`.
-`
 
 ## Solution
 
