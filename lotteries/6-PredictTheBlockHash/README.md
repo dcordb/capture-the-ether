@@ -2,7 +2,7 @@
 
 The difference between this and the previous challenge is that now we need to
 guess the hash of the block number `block.number + 1`. Since the hash is of 32
-bytes of length, then we would need to settle 2^256 times on average to get the
+bytes of size, then we would need to settle 2^256 times on average to get the
 correct answer, which is impossible to do.
 
 ## Solution
